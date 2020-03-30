@@ -1,3 +1,2 @@
 # SI-Estacionamento  
-# piloto: estarpar
-#avnida paulista
+# piloto: estarpar avenida paulista, 1100
